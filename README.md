@@ -36,11 +36,6 @@ mindmap
       SQL
     Cloud Platforms
       AWS
-    <!-- AI/ML
-      LLMs
-      Generative AI
-      RAG
-      Computer Vision -->
     DevOps
       Docker
     Electronics
