@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/FullStack-Web_Devloper-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IOT-Solutions-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud-Solutions-cyan?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CAD-Customization_Automation-pink?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-Agent-orange?style=for-the-badge" />
 </div>
 
