@@ -40,6 +40,15 @@ mindmap
     DevOps
       Docker
     Electronics
+    CAD
+      Customization
+      Automation
+      AutoDesk Forge
+    Web Technology
+      React
+      HTML
+      Css
+      Tailwind css
 ```
 
 ### Core Technologies
