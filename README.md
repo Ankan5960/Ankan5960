@@ -42,6 +42,7 @@ mindmap
       SQL
     Cloud Platforms
       AWS
+      Google Cloud
     DevOps
       Docker
     CAD
