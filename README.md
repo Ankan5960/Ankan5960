@@ -30,7 +30,8 @@ I'm Ankan Maity, an aspiring Software Engineer currently focused on web developm
 ```mermaid
 mindmap
   root((My Skills))
-    ele(Electronics)
+    Electronics
+    Electronics
     Core Languages
       C/C++
       JavaScript
@@ -49,9 +50,6 @@ mindmap
       HTML
       Css
       Tailwind css
-
-%% Styling a single node by its ID
-style ele fill:#f9f,stroke:#333,stroke-width:2px,color:red
 ```
 
 ### Core Technologies
