@@ -31,7 +31,10 @@ I'm Ankan Maity, an aspiring Software Engineer currently focused on web developm
 mindmap
   root((My Skills))
     Electronics
-    Electronics
+    IOT
+      Esp32
+      Arduino uno
+      Raspberry pi
     Core Languages
       C/C++
       JavaScript
