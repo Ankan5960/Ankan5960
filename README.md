@@ -30,6 +30,7 @@ I'm Ankan Maity, an aspiring Software Engineer currently focused on web developm
 ```mermaid
 mindmap
   root((My Skills))
+    Electronics
     Core Languages
       C/C++
       JavaScript
@@ -39,7 +40,6 @@ mindmap
       AWS
     DevOps
       Docker
-    Electronics
     CAD
       Customization
       Automation
