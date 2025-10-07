@@ -49,11 +49,15 @@ mindmap
       Customization
       Automation
       AutoDesk Forge
-    Web Technology
-      React
-      HTML
-      Css
-      Tailwind css
+    Web Dev
+      Frontend
+        React
+        HTML
+        Css
+        Tailwind css
+      Backend
+        ASP.Net
+        Node.js
 ```
 
 ### Core Technologies
